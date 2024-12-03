@@ -8,4 +8,4 @@ export const flowers=[
     {id:457,name:'Daisy',qty:0,img:'image3.jpeg',price:150},
     {id:458,name:'Tulip',qty:0,img:'image6.jpeg',price:550},
     {id:459,name:'Snowdrops',qty:0,img:'image9.jpeg',price:500},
-
+]
