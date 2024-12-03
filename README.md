@@ -4,4 +4,4 @@ This project involves developing the front end of an online flower shop e-commer
 
 Technology Stack
 Framework/Library: React
-Editor: Visual Studio Code (VS Code)
+
